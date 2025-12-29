@@ -11,7 +11,7 @@ permissions:
 jobs:
   terraform:
     name: 'Terraform'
-    runs-on: LAPTOP-H1DU5DE8
+    runs-on: self-hosted
     environment: production
 
 
